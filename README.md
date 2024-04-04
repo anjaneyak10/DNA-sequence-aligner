@@ -1,4 +1,4 @@
-# Sequence Alignment Tool
+# DNA Sequence Alignment Tool
 
 This tool aligns two sequences to maximize their similarity score.
 
